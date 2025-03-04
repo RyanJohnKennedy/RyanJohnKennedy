@@ -7,7 +7,7 @@ I am a full stack dev mainly using React and .NET.
 
 [![committers.top badge](https://user-badge.committers.top/south_africa/RyanJohnKennedy.svg)](https://committers.top/south_africa_private#RyanJohnKennedy)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,git,heroku,html,idea,mysql,nodejs,postgres,postman,react,redis,redux,regex,sass,blender,figma,stackoverflow,tailwind,unity,c#)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,docker,git,heroku,html,idea,mysql,nodejs,postgres,postman,react,redis,redux,regex,sass,blender,figma,stackoverflow,tailwind,unity,c,cs,cpp,arduino)](https://skillicons.dev)
 
 [![Ryan's Streak](https://streak-stats.demolab.com?user=RyanJohnKennedy&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
