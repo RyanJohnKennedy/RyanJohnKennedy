@@ -1,16 +1,16 @@
-## Hi there 👋
+ Hi there 👋 My name is Ryan Kennedy
+  
+Currently working @NesloTechnologies and soaking up as much technical and business skills as possible.
 
-<!--
-**RyanJohnKennedy/RyanJohnKennedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a full stack dev mainly using React and .NET.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![committers.top badge](https://user-badge.committers.top/south_africa/RyanJohnKennedy.svg)](https://committers.top/south_africa_private#RyanJohnKennedy)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,docker,git,heroku,html,idea,mysql,nodejs,postgres,postman,react,redis,redux,regex,sass,blender,figma,stackoverflow,tailwind,unity,c#)](https://skillicons.dev)
+
+[![Ryan's Streak](https://streak-stats.demolab.com?user=RyanJohnKennedy&theme=dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanJohnKennedy&layout=compact&langs_count=6&theme=tokyonight" />
+</a>
