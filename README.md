@@ -1,9 +1,5 @@
  Hi there 👋 My name is Ryan Kennedy
-  
-Currently working @NesloTechnologies and soaking up as much technical and business skills as possible.
-
-
-I am a full stack dev mainly using React and .NET.
+ 
 
 [![committers.top badge](https://user-badge.committers.top/south_africa/RyanJohnKennedy.svg)](https://committers.top/south_africa_private#RyanJohnKennedy)
 
